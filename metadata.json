@@ -1,0 +1,6 @@
+{
+  "name": "Rekap Piutang",
+  "description": "Aplikasi pencatatan dan pemantauan piutang pelanggan untuk pemilik usaha, toko, dan apotek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
